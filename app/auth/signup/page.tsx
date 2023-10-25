@@ -35,7 +35,7 @@ function Signup() {
         <div className="pt-14 mt-7">
           <p className="text-sm md:text-base">
             I'm Member?
-            <Link href="auth/login" className="text-blue-500 px-1">
+            <Link href="/auth/login" className="text-blue-500 px-1">
               Login
             </Link>
           </p>
